@@ -1,12 +1,12 @@
 # _Deck Building Webpage using Arrays_
 
-#### _Practice using Arrays in JS to take, sort and return input_
+#### _Practice using looping and arrays in JavaScript to build a deck of cards._
 
 #### By _**Mikah Mathews and Matt Stroud - March 30, 2020**_
 
 ## Description
 
-_An exercise using arrays to gather and keep input, then return input as a list._
+_An exercise using nested looping with arrays to efficiently create a deck of cards._
 
 ## Setup/Installation Requirements
 
@@ -14,7 +14,7 @@ _An exercise using arrays to gather and keep input, then return input as a list.
 * Navigate to index.html file through your file interface.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at https://mikah-mathews.github.io/word-play/
+* Alternatively, open the webpage at https://mikah-mathews.github.io/build-a-deck
 
 ## Known Bugs
 
